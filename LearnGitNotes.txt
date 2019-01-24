@@ -1,4 +1,4 @@
-Git learn notes
+创建版本库
 
 1、初始化一个git仓库：
 mkdir learngit   创建目录
@@ -14,5 +14,9 @@ git add LearnGitNotes.txt
 4、用命令git commit -m "本次提交的说明"
 
 ！：可以多次add 一次commit
+
+
+
+
 
 
