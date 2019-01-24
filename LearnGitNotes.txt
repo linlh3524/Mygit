@@ -15,7 +15,13 @@ git add LearnGitNotes.txt
 
 ！：可以多次add 一次commit
 
+git status：查看仓库当前状态（什么文件被修改了，没commit之类的。）
+git diff：比较仓库里的文件具体修改了什么
 
+
+提交修改同添加一样，分两步：
+git add  LearnGitNotes.txxt
+git commit -m "添加教程内容"
 
 
 
