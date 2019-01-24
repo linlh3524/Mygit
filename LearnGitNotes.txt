@@ -1,0 +1,18 @@
+Git learn notes
+
+1、初始化一个git仓库：
+mkdir learngit   创建目录
+cd  learngit   跳到该目录下
+pwd learngit
+
+git init   #初始化仓库，把文件夹编程git可以管理的仓库，文件夹下出现 .git文件夹，不要乱改该文件夹下内容
+
+2、把要进行控制的文件放在git仓库目录或子目录下
+3、用命令git add 告诉git，把文件添加到仓库
+git add LearnGitNotes.txt
+
+4、用命令git commit -m "本次提交的说明"
+
+！：可以多次add 一次commit
+
+
